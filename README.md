@@ -1,5 +1,7 @@
 # Measurements backend
 
+eh brezveze.
+
 ## Scope
 - App stores **Products** (id / name / min allowed temperature / max allowed termperature) in DB;
   **CRUD** operations are available on Products via REST endpoint,
